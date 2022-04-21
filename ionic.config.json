@@ -1,0 +1,7 @@
+{
+  "name": "ionic-datetime-min-max-25073",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
