@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['app.component.scss'],
 })
 export class AppComponent {
-  min = '2022-03-01';
-  max = '2022-04-07';
-  initialDate = '2022-04-05T10:00:00';
+  min = '2022-04-22';
+  max = '2022-05-21';
+  initialDate = '2022-04-22T10:00:00';
 }
